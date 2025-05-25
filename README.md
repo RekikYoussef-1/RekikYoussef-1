@@ -1,5 +1,10 @@
 ## Hi there 👋
+My name is Youssef, a software engineering student intreseted in all things Java & Data Science! 
 
+- 👨‍💻 I’m currently working on a small business, launching Soon...
+- 🧭 I'm currently exploring machine learning and AI concepts
+- 🤝 I’m looking to collaborate on YouTube videos!
+  - Contact me on rekikyoussef45@gmail.com
 <!--
 **RekikYoussef-1/RekikYoussef-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
