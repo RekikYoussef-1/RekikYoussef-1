@@ -1,5 +1,10 @@
 # 💫 About Me:
-My name is Youssef, a software engineering student intreseted in all things Java & Data Science!<br>👨‍💻 I’m currently working on a small business, launching Soon...<br>🧭 I'm currently exploring machine learning and AI concepts<br>
+I’m Youssef, a Software Engineering student focused on cloud, backend, and scalable systems.  
+☁️ Currently building my skills in Azure, Docker, Kubernetes, and modern cloud engineering practices  
+🖥️ Deeply interested in system administration and infrastructure management  
+💻 I enjoy working across Java, backend development, and software architecture  
+🧠 Also exploring machine learning and AI concepts to broaden my engineering perspective  
+🚀 Actively seeking a Cloud Engineering Internship, especially in the automotive and tech sectors in Europe
 
 
 # 💻 Tech Stack:
