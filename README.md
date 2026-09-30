@@ -1,10 +1,8 @@
 # 💫 About Me:
-I’m Youssef, a Software Engineering student focused on cloud, backend, and scalable systems.  
-☁️ Currently building my skills in Azure, Docker, Kubernetes, and modern cloud engineering practices  
+I’m Youssef, a Software Engineering student focused on ai engineering, software devolopement, and scalable systems.  
+☁️ Currently building my skills in machine learning and AI concepts to broaden my engineering perspective  
 🖥️ Deeply interested in system administration and infrastructure management  
-💻 I enjoy working across Java, backend development, and software architecture  
-🧠 Also exploring machine learning and AI concepts to broaden my engineering perspective  
-🚀 Actively seeking a Cloud Engineering Internship, especially in the automotive and tech sectors in Europe
+🧠 Also exploring modern cloud engineering practices
 
 
 # 💻 Tech Stack:
